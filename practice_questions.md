@@ -17,3 +17,6 @@ print(bubble_sort([64, 34, 25, 12, 22, 11, 90]))
 ```
 
 Worst case O(n²), best case O(n) with early exit.
+
+
+<!-- formatting -->
