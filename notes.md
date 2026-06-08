@@ -14,3 +14,26 @@
 | 3xx   | Redirect      | 301 Moved        |
 | 4xx   | Client error  | 404 Not Found    |
 | 5xx   | Server error  | 500 Internal     |
+
+## DNS Resolution
+
+DNS translates domain names to IP addresses.
+
+### Resolution flow
+1. Browser cache → OS cache → Router cache
+2. Recursive resolver (ISP)
+3. Root nameserver → TLD nameserver → Authoritative nameserver
+
+### Common record types
+| Type  | Purpose              | Example            |
+|-------|----------------------|--------------------|
+| A     | IPv4 address         | 93.184.216.34      |
+| AAAA  | IPv6 address         | 2606:2800:220:1::  |
+| CNAME | Alias                | www → example.com  |
+| MX    | Mail server          | mail.example.com   |
+| TXT   | Verification/SPF     | v=spf1 ...         |
+
+```bash
+nslookup example.com
+dig example.com A
+```
