@@ -23,3 +23,14 @@ Worst case O(n²), best case O(n) with early exit.
 
 
 <!-- updated examples -->
+
+## Nested Loop — Multiplication Table
+
+```python
+for i in range(1, 6):
+    for j in range(1, 11):
+        print(f'{i} x {j} = {i*j}')
+    print('---')
+```
+
+Useful for practising nested iteration and formatting.
