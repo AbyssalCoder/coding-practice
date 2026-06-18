@@ -17,3 +17,11 @@ Topics covered today:
 - Bubble Sort
 - Fibonacci
 - Nested Loops
+
+
+## Update — 2026-06-18
+
+Topics covered today:
+- Linear Search
+- TCP Handshake
+- OSI Model
