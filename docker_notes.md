@@ -38,3 +38,6 @@ Prefer named volumes over bind mounts in production.
 - Travis CI
 
 A good pipeline: Lint → Test → Build → Deploy
+
+
+<!-- fixed typo -->
