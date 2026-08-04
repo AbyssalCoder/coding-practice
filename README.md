@@ -25,3 +25,11 @@ Topics covered today:
 - Linear Search
 - TCP Handshake
 - OSI Model
+
+
+## Update — 2026-08-04
+
+Topics covered today:
+- Docker Basics
+- Reverse Number
+- Docker Volumes
