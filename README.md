@@ -33,3 +33,11 @@ Topics covered today:
 - Docker Basics
 - Reverse Number
 - Docker Volumes
+
+
+## Update — 2026-08-08
+
+Topics covered today:
+- Python OOP Basics
+- Git Branching
+- OSI Model
