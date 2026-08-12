@@ -6,3 +6,10 @@
 - GeeksforGeeks: https://www.geeksforgeeks.org/
 - Nginx docs: https://nginx.org/en/docs/
 - LeetCode: https://leetcode.com/
+
+## Resources — 2026-08-12
+
+### Useful links for Array Traversal
+
+- Docker docs: https://docs.docker.com/
+- Git documentation: https://git-scm.com/doc
