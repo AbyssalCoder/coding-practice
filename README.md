@@ -41,3 +41,11 @@ Topics covered today:
 - Python OOP Basics
 - Git Branching
 - OSI Model
+
+
+## Update — 2026-08-16
+
+Topics covered today:
+- Nginx Basics
+- File Handling
+- Git Branching
