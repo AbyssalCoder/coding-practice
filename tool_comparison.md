@@ -60,3 +60,6 @@ claude
 ```
 
 Works directly in the terminal. Reads your repo and makes edits in place.
+
+
+<!-- fixed typo -->
