@@ -20,3 +20,10 @@
 
 - LeetCode: https://leetcode.com/
 - Real Python: https://realpython.com/
+
+## Resources — 2026-08-25
+
+### Useful links for OSI Model
+
+- Real Python: https://realpython.com/
+- Nginx docs: https://nginx.org/en/docs/
