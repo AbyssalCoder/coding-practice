@@ -19,3 +19,9 @@ server {
     }
 }
 ```
+
+## 2026-08-27
+
+Practiced Load Balancers with some exercises.
+
+Going to revisit this topic next week for deeper understanding.
