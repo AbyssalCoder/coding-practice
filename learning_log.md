@@ -25,3 +25,6 @@ server {
 Practiced Load Balancers with some exercises.
 
 Going to revisit this topic next week for deeper understanding.
+
+
+<!-- formatting -->
