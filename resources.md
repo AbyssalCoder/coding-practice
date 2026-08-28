@@ -27,3 +27,11 @@
 
 - Real Python: https://realpython.com/
 - Nginx docs: https://nginx.org/en/docs/
+
+## Resources — 2026-08-28
+
+### Useful links for Bubble Sort
+
+- freeCodeCamp: https://www.freecodecamp.org/
+- MDN Web Docs: https://developer.mozilla.org/
+- GeeksforGeeks: https://www.geeksforgeeks.org/
