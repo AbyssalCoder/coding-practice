@@ -123,3 +123,4 @@ print(linear_search(nums, 5))  # -1
 Time complexity: O(n). Works on unsorted arrays.
 
 
+<!-- updated examples -->
