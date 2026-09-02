@@ -30,3 +30,20 @@ A JSON Web Token has three parts: `header.payload.signature`
 - Use refresh tokens for re-auth
 - Never store JWTs in localStorage (XSS risk)
 - Always validate `exp` and `iss` claims
+
+## VLAN Basics
+
+A Virtual LAN segments a physical network into logical groups.
+
+### Why VLANs?
+- Reduce broadcast domains
+- Improve security (isolate departments)
+- Simplify network management
+
+### Types
+- **Data VLAN** — regular user traffic
+- **Voice VLAN** — VoIP traffic priority
+- **Management VLAN** — switch management
+- **Native VLAN** — untagged trunk traffic
+
+VLAN tagging uses IEEE 802.1Q standard.
