@@ -28,3 +28,9 @@ Going to revisit this topic next week for deeper understanding.
 
 
 <!-- formatting -->
+
+## 2026-09-04
+
+Morning study session: Linear Search.
+
+The hands-on practice made the theory click.
