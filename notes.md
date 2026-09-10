@@ -251,3 +251,18 @@ Always use `with` statements — they handle closing automatically.
 - React + Tailwind + TypeScript stack
 - Better at frontend than backend logic
 - Iterative refinement via chat
+
+## Git Basics
+
+```bash
+git init                        # Initialize repo
+git add .                       # Stage all changes
+git commit -m 'Initial commit'  # Commit
+git status                      # Check status
+git log --oneline               # Compact log
+git diff                        # Show unstaged changes
+git diff --staged               # Show staged changes
+```
+
+### Three areas
+Working Directory → Staging Area → Repository
