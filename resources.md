@@ -35,3 +35,10 @@
 - freeCodeCamp: https://www.freecodecamp.org/
 - MDN Web Docs: https://developer.mozilla.org/
 - GeeksforGeeks: https://www.geeksforgeeks.org/
+
+## Resources — 2026-09-17
+
+### Useful links for CI/CD Basics
+
+- Docker docs: https://docs.docker.com/
+- Nginx docs: https://nginx.org/en/docs/
