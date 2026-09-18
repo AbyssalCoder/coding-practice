@@ -294,3 +294,16 @@ print(sieve(100))
 ```
 
 Efficient for generating all primes up to a limit. Runs in O(n log log n).
+
+## Palindrome Check
+
+```python
+def is_palindrome(s):
+    s = s.lower().replace(' ', '')
+    return s == s[::-1]
+
+print(is_palindrome('racecar'))  # True
+print(is_palindrome('hello'))    # False
+```
+
+Slicing `[::-1]` reverses the string in one step.
