@@ -307,3 +307,25 @@ print(is_palindrome('hello'))    # False
 ```
 
 Slicing `[::-1]` reverses the string in one step.
+
+## Network Monitoring Commands
+
+```bash
+# Check connectivity
+ping google.com
+
+# Trace route to host
+traceroute google.com   # Linux
+tracert google.com      # Windows
+
+# View active connections
+netstat -tuln
+ss -tuln                # modern alternative
+
+# DNS lookup
+nslookup example.com
+dig example.com
+
+# Capture packets
+tcpdump -i eth0 port 80
+```
