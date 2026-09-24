@@ -124,3 +124,9 @@ Time complexity: O(n). Works on unsorted arrays.
 
 
 <!-- updated examples -->
+
+## 2026-09-24
+
+Deep dive into Git Branching.
+
+The comparison between approaches was really helpful.
