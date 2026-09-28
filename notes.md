@@ -363,3 +363,25 @@ Works directly in the terminal. Reads your repo and makes edits in place.
 
 
 <!-- indent fix -->
+
+## Network Monitoring Commands
+
+```bash
+# Check connectivity
+ping google.com
+
+# Trace route to host
+traceroute google.com   # Linux
+tracert google.com      # Windows
+
+# View active connections
+netstat -tuln
+ss -tuln                # modern alternative
+
+# DNS lookup
+nslookup example.com
+dig example.com
+
+# Capture packets
+tcpdump -i eth0 port 80
+```
