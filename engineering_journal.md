@@ -15,3 +15,6 @@ Still need to work on the implementation details.
 Went through CI/CD Basics concepts and examples.
 
 Understanding the 'why' behind this made everything clearer.
+
+
+<!-- updated examples -->
