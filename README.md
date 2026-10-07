@@ -49,3 +49,12 @@ Topics covered today:
 - Nginx Basics
 - File Handling
 - Git Branching
+
+
+## Update — 2026-10-07
+
+Topics covered today:
+- Subnetting Basics
+- Caching
+- File Handling
+- Load Balancers
