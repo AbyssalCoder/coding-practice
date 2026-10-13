@@ -138,3 +138,6 @@ for i, val in enumerate(arr):
 for val in reversed(arr):
     print(val)
 ```
+
+
+<!-- snippet correction -->
