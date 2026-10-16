@@ -58,3 +58,11 @@ Topics covered today:
 - Caching
 - File Handling
 - Load Balancers
+
+
+## Update — 2026-10-16
+
+Topics covered today:
+- Load Balancers
+- Bubble Sort
+- Armstrong Number
