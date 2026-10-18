@@ -18,3 +18,9 @@ Understanding the 'why' behind this made everything clearer.
 
 
 <!-- updated examples -->
+
+## 2026-10-18
+
+Revisited HTTP and took better notes.
+
+This was surprisingly intuitive once I understood the fundamentals.
