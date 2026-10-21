@@ -66,3 +66,12 @@ Topics covered today:
 - Load Balancers
 - Bubble Sort
 - Armstrong Number
+
+
+## Update — 2026-10-21
+
+Topics covered today:
+- HTTPS
+- Exception Handling
+- Linear Search
+- Reverse Number
