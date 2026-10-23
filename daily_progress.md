@@ -169,3 +169,9 @@ for i in range(10):
 ```
 
 **Key takeaway:** The iterative version runs in O(n) time and O(1) space.
+
+## 2026-10-23
+
+Morning study session: Gemini CLI.
+
+Connecting this to what I learned last week about related concepts.
