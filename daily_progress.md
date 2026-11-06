@@ -192,3 +192,23 @@ def factorial_rec(n):
 
 print(factorial_iter(5))  # 120
 ```
+
+## Python OOP — Classes
+
+```python
+class Student:
+    def __init__(self, name, roll):
+        self.name = name
+        self.roll = roll
+
+    def display(self):
+        print(f'{self.name} (Roll: {self.roll})')
+
+    def __repr__(self):
+        return f'Student({self.name!r}, {self.roll!r})'
+
+s = Student('Aniket', 42)
+s.display()
+```
+
+`__init__` is the constructor. `self` refers to the current instance.
