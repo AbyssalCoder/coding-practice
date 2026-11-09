@@ -42,3 +42,10 @@
 
 - Docker docs: https://docs.docker.com/
 - Nginx docs: https://nginx.org/en/docs/
+
+## Resources — 2026-11-09
+
+### Useful links for Git Rebase
+
+- Nginx docs: https://nginx.org/en/docs/
+- LeetCode: https://leetcode.com/
