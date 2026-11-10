@@ -144,3 +144,23 @@ jobs:
 ```
 
 Workflows live in `.github/workflows/` and trigger on events.
+
+## CI/CD Basics
+
+### Continuous Integration (CI)
+- Automatically build and test on every push
+- Catch bugs early
+- Run linters, formatters, tests
+
+### Continuous Delivery (CD)
+- Automatically deploy after CI passes
+- Staging → Production pipeline
+
+### Popular tools
+- GitHub Actions
+- GitLab CI
+- Jenkins
+- CircleCI
+- Travis CI
+
+A good pipeline: Lint → Test → Build → Deploy
