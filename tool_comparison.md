@@ -82,3 +82,20 @@ gemini
 - Supports extensions (Google Search, etc.)
 
 Huge context window makes it good for analyzing large codebases.
+
+## Aider — AI Pair Programming in Terminal
+
+### Setup
+```bash
+pip install aider-chat
+aider
+```
+
+### Features
+- Works with GPT-4, Claude, local models
+- Auto-commits changes with good messages
+- `/add` files to context
+- `/diff` to see pending changes
+- Understands git history
+
+Good for iterative development — it keeps track of conversation context.
