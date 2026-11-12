@@ -75,3 +75,11 @@ Topics covered today:
 - Exception Handling
 - Linear Search
 - Reverse Number
+
+
+## Update — 2026-11-12
+
+Topics covered today:
+- Docker Volumes
+- Fibonacci
+- HTTP
