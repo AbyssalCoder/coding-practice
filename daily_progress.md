@@ -232,3 +232,9 @@ s.display()
 ```
 
 `__init__` is the constructor. `self` refers to the current instance.
+
+## 2026-11-14
+
+Today I focused on Factorial.
+
+Still need to work on the implementation details.
