@@ -434,3 +434,20 @@ aider
 - Understands git history
 
 Good for iterative development — it keeps track of conversation context.
+
+## Prime Number Check
+
+```python
+def is_prime(n):
+    if n < 2:
+        return False
+    for i in range(2, int(n**0.5) + 1):
+        if n % i == 0:
+            return False
+    return True
+
+primes = [x for x in range(2, 50) if is_prime(x)]
+print(primes)
+```
+
+Only need to check up to √n for divisibility.
