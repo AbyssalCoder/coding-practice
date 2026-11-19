@@ -49,3 +49,11 @@
 
 - Nginx docs: https://nginx.org/en/docs/
 - LeetCode: https://leetcode.com/
+
+## Resources — 2026-11-19
+
+### Useful links for Array Traversal
+
+- MDN Web Docs: https://developer.mozilla.org/
+- freeCodeCamp: https://www.freecodecamp.org/
+- GeeksforGeeks: https://www.geeksforgeeks.org/
