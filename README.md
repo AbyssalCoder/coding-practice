@@ -83,3 +83,10 @@ Topics covered today:
 - Docker Volumes
 - Fibonacci
 - HTTP
+
+
+## Update — 2026-11-19
+
+Topics covered today:
+- Bubble Sort
+- Git Basics
