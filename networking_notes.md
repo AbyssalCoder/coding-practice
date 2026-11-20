@@ -104,3 +104,6 @@ dig example.com A
 | /28  | 255.255.255.240 | 14    |
 
 Usable hosts = 2^(32 - prefix) - 2
+
+
+<!-- formatting -->
