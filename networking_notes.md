@@ -87,3 +87,20 @@ DNS translates domain names to IP addresses.
 nslookup example.com
 dig example.com A
 ```
+
+## Subnetting Basics
+
+### CIDR notation
+- `192.168.1.0/24` → 256 addresses, 254 usable hosts
+- `10.0.0.0/8` → Class A, ~16 million hosts
+
+### Quick subnet math
+| CIDR | Subnet Mask     | Hosts |
+|------|-----------------|-------|
+| /24  | 255.255.255.0   | 254   |
+| /25  | 255.255.255.128 | 126   |
+| /26  | 255.255.255.192 | 62    |
+| /27  | 255.255.255.224 | 30    |
+| /28  | 255.255.255.240 | 14    |
+
+Usable hosts = 2^(32 - prefix) - 2
