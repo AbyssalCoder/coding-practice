@@ -93,3 +93,6 @@ aider
 - Understands git history
 
 Good for iterative development — it keeps track of conversation context.
+
+
+<!-- snippet correction -->
