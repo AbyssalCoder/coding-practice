@@ -60,3 +60,19 @@ Works directly in the terminal. Reads your repo and makes edits in place.
 - Good at building full features end-to-end
 - Works with Claude, GPT-4, and other models
 - Human-in-the-loop design (approve/reject each action)
+
+## OpenCode — Terminal AI Coding Tool
+
+Open-source terminal-based coding assistant.
+
+### Setup
+```bash
+go install github.com/opencode-ai/opencode@latest
+opencode
+```
+
+### Features
+- Runs in terminal (TUI interface)
+- Supports multiple LLM providers
+- File editing with diff preview
+- Session history
