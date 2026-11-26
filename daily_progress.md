@@ -244,3 +244,9 @@ Still need to work on the implementation details.
 
 
 <!-- formatting -->
+
+## 2026-11-26
+
+Revisited Bolt.new and took better notes.
+
+Still need to work on the implementation details.
